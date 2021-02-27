@@ -17,7 +17,7 @@ def get_token():
 #用树莓派拍照
 def get_photo():
     #os.system('sudo raspistill -t 2000 -o image.jpg -w 320 -h 240')
-    os.system('sudo raspistill -o ugi.jpg -w 1024 -h 768 -v')
+    os.system('sudo raspistill -o image.jpg -w 1024 -h 768 -v')
 
 #百度识图
 def baidu_photo():
