@@ -6,7 +6,7 @@
 >
 > 刚开学，忘记导员要求交一份“作业”，由于时间匆促，故有此代码。
 >
-> 本代码由[王世浩](https://github.com/solywsh)、[秦甲禾](https://github.com/iAyoD)、[刘莹雷](https://github.com/Kristenbeyond)、[张元瑞]()共同开发完成。
+> 本代码由[王世浩](https://github.com/solywsh)、[秦甲禾](https://github.com/iAyoD)、[刘莹雷](https://github.com/Kristenbeyond)、[张元瑞](https://github.com/xyxszyr)共同开发完成。
 >
 > 处于某些考虑，~~代码里的`client_id`、`client_secret`、`key`、微信推送pushplus的`token`等并没有去除，如需测试并嫌麻烦，在适当情况下可以使用我们的密钥，其中pushplus的`token`，建议换为自己的`Token`，否则你将无法收到微信推送。~~(一段时间后会考虑删除)
 
